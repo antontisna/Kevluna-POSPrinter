@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestPrinting
+</name>
+</assembly>
+<members>
+<member name="P:TestPrinting.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TestPrinting.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TestPrinting.My.Resources.Resources.Conn">
+	<summary>
+  Looks up a localized string similar to data source=DESKTOP-50PF94A\SQLEXPRESS; initial catalog=POSRT;user id=SA;password=indofood;Application Name=KOP_DSI;MultipleActiveResultSets=true;.
+</summary>
+</member><member name="P:TestPrinting.My.Resources.Resources.KodeCompany">
+	<summary>
+  Looks up a localized string similar to 01.
+</summary>
+</member><member name="P:TestPrinting.My.Resources.Resources.KodeDivisi">
+	<summary>
+  Looks up a localized string similar to 01.
+</summary>
+</member><member name="P:TestPrinting.My.Resources.Resources.PrinterNM">
+	<summary>
+  Looks up a localized string similar to EPSON TM-U220 Receipt.
+</summary>
+</member><member name="P:TestPrinting.My.Resources.Resources.StationNo">
+	<summary>
+  Looks up a localized string similar to 100.
+</summary>
+</member><member name="T:TestPrinting.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
